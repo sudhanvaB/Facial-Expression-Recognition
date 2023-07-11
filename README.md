@@ -1,4 +1,4 @@
-# Facial Expression Recognition Mini Project
+# Facial Expression Recognition
 
 This repository contains a Facial Expression Recognition mini project developed by two 3rd-year students. The project utilizes deep learning techniques to detect and classify facial expressions in real-time using a webcam.
 
